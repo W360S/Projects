@@ -5,6 +5,8 @@
     'category': 'Project',
     'author': 'saas tools',
     'website': 'https://saastools.xyz',
+    'images': ['static/description/project_default_stage.png'],
+    'maintainer': 'World 360° Services',
     'license': 'AGPL-3',
     'depends': [
         'project',
